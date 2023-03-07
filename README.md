@@ -59,3 +59,4 @@ b) Структура проекта.
 	>venv
 	conftest.py
 	requirements.txt
+"""

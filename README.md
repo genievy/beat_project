@@ -1,12 +1,15 @@
 # beat_project
 """
 Запуск тестов (в корне проекта):
+
  pytest -s -v tests\test_elements.py
  
-Запуск проекта с генерацией отчета в allureЖ
+Запуск проекта с генерацией отчета в allure:
+
   pytest -s -v tests\test_elements.py --alluredir=C:\beat_project\tests\reports
 
 Для просмотра отчета в браузере:
+
   allure serve tests\reports
   
 

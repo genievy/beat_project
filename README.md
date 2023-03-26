@@ -1,9 +1,12 @@
 # beat_project
 """
 Техническое задание.
+
+Пожалуйста, сделайте этот тесткейс на языке python (займет час-полтора https://docs.google.com/spreadsheets/d/1zyN8MSUAD5pRDfu0t1ZZzLlgwa5fPBfGTYxMiXXI2cI/edit?usp=sharing) используя паттерн PageObject и библиотеку webdriver manager.
+
 	Браузер Chrome и Firefox		
 			
-Шаг	Действие	                                       ОР	
+Шаг	Действие	                                       ОР \n	
 1	Открыть в браузере ссылку https://demoqa.com/	       Сайт https://demoqa.com/ открыт	
 2	Нажать кнопку Elements	                               Открыта страница Elements	
 3	В раскрытом меню справа кликнуть лкм Check Box	       Открыта страница Check Box	

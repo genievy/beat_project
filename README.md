@@ -6,7 +6,7 @@
 
 	Браузер Chrome и Firefox		
 			
-Шаг	Действие	                                       ОР \n	
+Шаг	Действие	                                       ОР 	
 1	Открыть в браузере ссылку https://demoqa.com/	       Сайт https://demoqa.com/ открыт	
 2	Нажать кнопку Elements	                               Открыта страница Elements	
 3	В раскрытом меню справа кликнуть лкм Check Box	       Открыта страница Check Box	

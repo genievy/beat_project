@@ -1,5 +1,21 @@
 # beat_project
 """
+Техническое задание.
+	Браузер Chrome и Firefox		
+			
+Шаг	Действие	                                       ОР	
+1	Открыть в браузере ссылку https://demoqa.com/	       Сайт https://demoqa.com/ открыт	
+2	Нажать кнопку Elements	                               Открыта страница Elements	
+3	В раскрытом меню справа кликнуть лкм Check Box	       Открыта страница Check Box	
+4	Раскрыть директорию Home. 	                       Директория Home раскрыта	
+5	Раскрыть директорию Downloads 	                       Директория Downloads раскрыта	
+6	Выбрать чекбокс Word File.doc	                       "Чекбокс файла Word File.doc выбран. 
+                                                                Появилось сообщение ""You have selected:wordFile"""	
+			
+
+
+Реализация.
+
 Запуск тестов (в корне проекта):
 
  pytest -s -v tests\test_elements.py
